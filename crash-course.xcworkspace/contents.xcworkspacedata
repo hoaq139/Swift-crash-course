@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground">
+   </FileRef>
+   <FileRef
       location = "group:If-Else.playground/Fucntions.playground">
    </FileRef>
    <FileRef
