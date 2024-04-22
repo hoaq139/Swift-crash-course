@@ -2,6 +2,24 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground/Classes.playground/Protocols.playground/Extensions.playground/Generic.playground/Optional.playground/Error-Handling.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground/Classes.playground/Protocols.playground/Extensions.playground/Generic.playground/Optional.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground/Classes.playground/Protocols.playground/Extensions.playground/Generic.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground/Classes.playground/Protocols.playground/Extensions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground/Classes.playground/Protocols.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground/Classes.playground">
+   </FileRef>
+   <FileRef
       location = "group:If-Else.playground/Fucntions.playground/Closures.playground/Structure.playground/Enumerations.playground">
    </FileRef>
    <FileRef
